@@ -1,0 +1,31 @@
+{
+  "name": "coralina-dark",
+  "displayName": "Coralina Dark",
+  "description": "Coralina Dark theme!",
+  "publisher": "vitormil",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vitormil/coralina-dark-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "coralina"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coralina Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coralina Dark-color-theme.json"
+      }
+    ]
+  }
+}
