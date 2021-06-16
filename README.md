@@ -1,4 +1,6 @@
-## Welcome to "coralina-dark" theme!
+## Coralina Dark Theme
+
+![JSON](https://raw.githubusercontent.com/vitormil/coralina-dark-theme/master/screenshots/json.png)
 
 ### For more information
 
